@@ -16,6 +16,12 @@ header {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+.sticky-header {
+	float: left;
+	margin-left: 150px;
+	width: 960px;
+}
+
 .your-name {
 	font-family: 'Princess Sofia', cursive;
 	font-size: 36px;
@@ -25,14 +31,12 @@ header {
 	padding: 30px;
 	width: 250px;
 	float:left;
-	margin-left: 150px;
 }
 
 
 .navigation {
 	float: right;
 	padding: 36px 36px 0 0;
-	margin-right: 150px;
 }
 
 #about {
