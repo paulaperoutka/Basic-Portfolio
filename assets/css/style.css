@@ -133,10 +133,12 @@ header {
 
 .bio-1 {
 	margin-bottom: 16px;
+	line-height: 125%;
 }
 
 .bio-2 {
 	float: left;
+	line-height: 125%;
 }
 
 /*Portfolio*/
