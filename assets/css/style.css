@@ -4,7 +4,8 @@ body {
 	margin: auto;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
-	background-color: #ebebeb;
+	/*background-color: #ebebeb;*/
+	background-image: url(../images/background.jpg);
 }
 
 
@@ -16,7 +17,9 @@ header {
 }
 
 .your-name {
+	font-family: 'Princess Sofia', cursive;
 	font-size: 36px;
+	text-align: center;
 	color: white;
 	background-color: #4aaaa5;
 	padding: 30px;
