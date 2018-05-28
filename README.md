@@ -17,10 +17,13 @@ https://paulaperoutka.github.io/Basic-Portfolio/
   https://paulaperoutka.github.io/Basic-Portfolio/contact.html
 
 ## Screenshots
+![Screenshot](assets/images/screenshots/about.png)
+![Screenshot](assets/images/screenshots/contact.png)
+![Screenshot](assets/images/screenshots/portfolio.png)
 
 
 ## Credits
-Thank you to pexels.com for providing free, open-source photos to make websites look stunning!
+Thank you to pexels.com for providing free, open-source photos to make websites look stunning!/
 Background image: https://www.pexels.com/photo/texture-wall-floor-stone-8892/
 
 ## License
