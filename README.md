@@ -17,9 +17,9 @@ https://paulaperoutka.github.io/Basic-Portfolio/
   https://paulaperoutka.github.io/Basic-Portfolio/contact.html
 
 ## Screenshots
-![Screenshot](assets/images/screenshots/about.png)
-![Screenshot](assets/images/screenshots/contact.png)
-![Screenshot](assets/images/screenshots/portfolio.png)
+![Screenshot](./assets/images/screenshots/about.png)
+![Screenshot](./assets/images/screenshots/contact.png)
+![Screenshot](./assets/images/screenshots/portfolio.png)
 
 
 ## Credits
